@@ -1,0 +1,16 @@
+{
+  "name": "discord-bot-mvc",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3",
+    "google-auth-library": "^8.7.0",
+    "google-spreadsheet": "^3.3.0"
+  }
+}
