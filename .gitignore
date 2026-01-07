@@ -13,7 +13,7 @@ google-credentials.json
 google-service-account.json
 credentials.json
 config/google-credentials.json 
-
+service-account.json
 # --- OS Files ---
 .DS_Store
 Thumbs.db
@@ -26,3 +26,4 @@ docker-compose.override.yml
 # --- Optional ---
 coverage/
 .nyc_output/
+suwayomi_server/
